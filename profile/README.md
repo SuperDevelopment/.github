@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Helloooo 👋
 Welcome to SuperDevelopment. We are a small open-source organization dedicated to making all your projects **🌈SUPER🌈**.
 
